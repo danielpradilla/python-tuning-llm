@@ -164,5 +164,6 @@ checkpoint-*
 wandb/
 data/
 models/
-
+db/
+*private*
 
