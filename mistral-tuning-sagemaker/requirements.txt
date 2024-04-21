@@ -1,0 +1,5 @@
+transformers
+datasets[s3]==2.18.0
+sagemaker
+huggingface_hub[cli]
+python-dotenv
