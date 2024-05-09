@@ -1,0 +1,16 @@
+python-dotenv
+mlx>=0.8.0
+transformers
+numpy
+
+
+#mlx-tuning-fork
+#mlx
+click
+tqdm
+ogbujipt
+numpy
+mlx-lm
+pyyaml
+pytest
+wandb
